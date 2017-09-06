@@ -1,0 +1,81 @@
+*{margin:0;padding:0}
+
+#back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
+
+#Container{
+    background-color: darkgray;
+}
+
+
+#Slider{
+    background-color: darkgray;
+    width:100%;
+    height: 100%;
+}
+
+
+#Sub{
+    height: 850px;
+  background-color: burlywood;
+    text-align: center;
+}
+
+#Login {
+
+    height: 60%;
+    margin-top: 10px;
+}
+
+#Signup {
+
+    height: 60%;
+    margin-top: 10px;
+}
+
+#Mid{
+    style:"background-color: burlywood";
+    text-align: center;
+    padding-top: 120px;
+
+}
+
+
+#Header{
+
+    height: 50%;
+    width: 100%;
+    background-color: deepskyblue;
+
+}
+
+
+
+#Footer{
+
+    background-color:deepskyblue;
+    width: 100%;
+    height: 270px;
+    text-align: center;
+
+}
+
+
+#navHeader{
+
+    text-align: center;
+    line-height: 100px;
+}
+
+
+
+#navFooter{
+
+    text-align: center;
+    line-height: 100px;
+}
